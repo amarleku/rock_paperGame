@@ -14,13 +14,13 @@ h1{
     font-weight: 800;
     margin: 15px 0;
 }
-.container{
-   
+/* .container{
+    display: flex;
 }
 .container .section{
-    /* width: 350px;
-    margin: 20px 50px; */
-}
+    width: 350px;
+    margin: 20px 50px;
+} */
 .section .info{
     background: rgb(10, 10, 10);
     display: flex;
